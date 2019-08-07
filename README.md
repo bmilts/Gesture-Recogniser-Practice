@@ -13,4 +13,4 @@ Basic app to implement gesture recogniser and see how they operate
 ## Key Learning
 
 * CGRect frame intersection
-* 
+* UIPanGesture logic and state management Beginning/Change/Ended using a switch statement
